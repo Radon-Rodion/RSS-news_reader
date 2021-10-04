@@ -1,0 +1,10 @@
+F:\Coding\C#\SPP_4\SPP_4\obj\Debug\SPP_4.csproj.AssemblyReference.cache
+F:\Coding\C#\SPP_4\SPP_4\obj\Debug\SPP_4.ReaderForm.resources
+F:\Coding\C#\SPP_4\SPP_4\obj\Debug\SPP_4.Properties.Resources.resources
+F:\Coding\C#\SPP_4\SPP_4\obj\Debug\SPP_4.csproj.GenerateResource.cache
+F:\Coding\C#\SPP_4\SPP_4\obj\Debug\SPP_4.csproj.CoreCompileInputs.cache
+F:\Coding\C#\SPP_4\SPP_4\bin\Debug\SPP_4.exe.config
+F:\Coding\C#\SPP_4\SPP_4\bin\Debug\SPP_4.exe
+F:\Coding\C#\SPP_4\SPP_4\bin\Debug\SPP_4.pdb
+F:\Coding\C#\SPP_4\SPP_4\obj\Debug\SPP_4.exe
+F:\Coding\C#\SPP_4\SPP_4\obj\Debug\SPP_4.pdb
